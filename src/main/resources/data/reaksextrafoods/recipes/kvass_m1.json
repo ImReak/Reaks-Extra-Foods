@@ -1,0 +1,26 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":[
+    "AA ",
+    "CB ",
+    "DD "
+  ],
+  "key":{
+    "A":{
+      "item":"minecraft:sugar"
+    },
+    "B":{
+      "item":"minecraft:bread"
+    },
+    "C":{
+      "item":"minecraft:water_bucket"
+    },
+    "D":{
+      "item":"minecraft:glass_bottle"
+    }
+  },
+  "result":{
+    "item":"reaksextrafoods:kvass",
+    "count":2
+  }
+}

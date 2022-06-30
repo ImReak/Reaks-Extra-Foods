@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "reaksextrafoods:wet_filter"
+  },
+  "result": "reaksextrafoods:filter",
+  "experience": 0.35,
+  "cookingtime": 40
+}

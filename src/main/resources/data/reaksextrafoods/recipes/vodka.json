@@ -1,0 +1,26 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":[
+    "AAA",
+    "BCB",
+    "DDD"
+  ],
+  "key":{
+    "A":{
+      "item":"minecraft:potato"
+    },
+    "B":{
+      "item":"minecraft:sugar"
+    },
+    "C":{
+      "item":"minecraft:water_bucket"
+    },
+    "D":{
+      "item":"minecraft:glass_bottle"
+    }
+  },
+  "result":{
+    "item":"reaksextrafoods:vodka",
+    "count":3
+  }
+}

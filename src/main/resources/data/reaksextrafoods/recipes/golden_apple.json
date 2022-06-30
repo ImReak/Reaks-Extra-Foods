@@ -1,0 +1,20 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":[
+    "AB ",
+    "   ",
+    "   "
+  ],
+  "key":{
+    "A":{
+      "item":"reaksextrafoods:copper_apple"
+    },
+    "B":{
+      "item":"minecraft:gold_ingot"
+    }
+  },
+  "result":{
+    "item":"minecraft:golden_apple",
+    "count":1
+  }
+}

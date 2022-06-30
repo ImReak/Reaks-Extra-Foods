@@ -1,0 +1,17 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":[
+    "A  ",
+    "   ",
+    "   "
+  ],
+  "key":{
+    "A":{
+      "item":"minecraft:oak_leaves"
+    }
+  },
+  "result":{
+    "item":"minecraft:apple",
+    "count":1
+  }
+}
