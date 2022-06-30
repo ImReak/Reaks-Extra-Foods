@@ -5,6 +5,7 @@ import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.text.Text;
+import net.minecraft.text.TranslatableText;
 import net.minecraft.util.Formatting;
 import net.minecraft.util.Hand;
 import net.minecraft.util.TypedActionResult;
@@ -22,7 +23,7 @@ public class Icon extends Item {
     }
 
     public void appendTooltip(ItemStack itemStack, World world, List<Text> tooltip, TooltipContext tooltipContext) {
-        tooltip.add(Text.translatable("icon_synopsis_p1").formatted(Formatting.RED));
-        tooltip.add(Text.translatable("icon_synopsis_p2").formatted(Formatting.GREEN));
+        tooltip.add(new TranslatableText("icon_synopsis_p1").formatted(Formatting.RED));
+        tooltip.add(new TranslatableText("icon_synopsis_p2").formatted(Formatting.GREEN));
     }
 }

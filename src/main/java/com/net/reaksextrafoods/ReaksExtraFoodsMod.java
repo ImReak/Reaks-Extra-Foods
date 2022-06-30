@@ -303,7 +303,6 @@ public class ReaksExtraFoodsMod implements ModInitializer {
 					.statusEffect(new StatusEffectInstance(StatusEffects.SLOWNESS,400,4),1.0F)
 					.statusEffect(new StatusEffectInstance(StatusEffects.NAUSEA,400,4),1.0F)
 					.statusEffect(new StatusEffectInstance(StatusEffects.WITHER,400,1),1.0F)
-					.statusEffect(new StatusEffectInstance(StatusEffects.DARKNESS,400,4),1.0F)
 					.statusEffect(new StatusEffectInstance(StatusEffects.BAD_OMEN,1145141919,4),1.0F)
 					.statusEffect(new StatusEffectInstance(StatusEffects.UNLUCK,400,4),1.0F)
 					.alwaysEdible()
