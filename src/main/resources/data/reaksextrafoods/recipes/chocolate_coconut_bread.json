@@ -1,0 +1,22 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":[
+    "AA ",
+    "BB ",
+    "CC "
+  ],
+  "key":{
+    "A":{
+      "item":"minecraft:bread"
+    },
+    "B":{
+      "item":"reaksextrafoods:coconut"
+    },
+    "C":{
+      "item":"reaksextrafoods:hot_chocolate"
+    }
+  },
+  "result":{
+    "item":"reaksextrafoods:chocolate_coconut_bread",
+    "count":2
+}}

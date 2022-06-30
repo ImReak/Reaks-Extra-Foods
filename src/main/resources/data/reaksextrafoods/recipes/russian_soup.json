@@ -1,0 +1,26 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":[
+    "AA ",
+    "BC ",
+    "DD "
+  ],
+  "key":{
+    "A":{
+      "item":"minecraft:beetroot"
+    },
+    "B":{
+      "item":"minecraft:cooked_beef"
+    },
+    "C":{
+      "item":"minecraft:baked_potato"
+    },
+    "D":{
+      "item":"minecraft:bowl"
+    }
+  },
+  "result":{
+    "item":"reaksextrafoods:russian_soup",
+    "count":2
+  }
+}

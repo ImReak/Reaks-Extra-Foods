@@ -1,0 +1,20 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":[
+    "BA ",
+    "   ",
+    "   "
+  ],
+  "key":{
+    "A":{
+      "item":"reaksextrafoods:salt"
+    },
+    "B":{
+      "item":"minecraft:rotten_flesh"
+    }
+  },
+  "result":{
+    "item":"reaksextrafoods:dried_rotten_flesh",
+    "count":1
+  }
+}

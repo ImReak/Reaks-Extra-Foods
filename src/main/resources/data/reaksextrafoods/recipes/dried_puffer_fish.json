@@ -1,0 +1,20 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":[
+    "BA ",
+    "   ",
+    "   "
+  ],
+  "key":{
+    "A":{
+      "item":"reaksextrafoods:salt"
+    },
+    "B":{
+      "item":"minecraft:pufferfish"
+    }
+  },
+  "result":{
+    "item":"reaksextrafoods:dried_puffer_fish",
+    "count":1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":[
+    "A  ",
+    "   ",
+    "   "
+  ],
+  "key":{
+    "A":{
+      "item":"reaksextrafoods:paimon"
+    }
+  },
+  "result":{
+    "item":"reaksextrafoods:icon",
+    "count":1
+  }
+}

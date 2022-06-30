@@ -1,0 +1,23 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":[
+    "ABA",
+    "BAB",
+    "CCC"
+  ],
+  "key":{
+    "A":{
+      "item":"minecraft:sugar"
+    },
+    "B":{
+      "item":"minecraft:milk_bucket"
+    },
+    "C":{
+      "item":"minecraft:glass_bottle"
+    }
+  },
+  "result":{
+    "item":"reaksextrafoods:condensed_milk_pack",
+    "count":3
+  }
+}

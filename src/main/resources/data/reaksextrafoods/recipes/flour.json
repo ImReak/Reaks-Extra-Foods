@@ -1,0 +1,17 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":[
+    "A  ",
+    "   ",
+    "   "
+  ],
+  "key":{
+    "A":{
+      "item":"minecraft:wheat"
+    }
+  },
+  "result":{
+    "item":"reaksextrafoods:flour",
+    "count":1
+  }
+}
