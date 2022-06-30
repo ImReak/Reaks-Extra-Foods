@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "reaksextrafoods",
+  "version": "${version}",
+
+  "name": "Reak's Extra Foods Mod",
+  "description": "Reak's Extra Foods Mod,owned by ImReak.Thanks for using this mod.",
+  "authors": [
+    "ImReak"
+  ],
+  "contact": {
+    "homepage": "https://github.com/ImReak",
+    "sources": "https://github.com/ImReak/Reaks-Extra-Foods"
+  },
+
+  "license": "MIT License",
+  "icon": "assets/reaksextrafoods/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.net.reaksextrafoods.ReaksExtraFoodsMod"
+    ]
+  },
+  "mixins": [
+    "reaksextrafoods.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
