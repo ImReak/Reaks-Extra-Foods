@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "reaksextrafoods:bambooshoot"
-  },
-  "result": "reaksextrafoods:baked_bambooshoot",
-  "experience": 0.35,
-  "cookingtime": 200
-}

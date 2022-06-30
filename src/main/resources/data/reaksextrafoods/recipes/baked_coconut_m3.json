@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "reaksextrafoods:coconut"
-  },
-  "result": "reaksextrafoods:baked_coconut",
-  "experience": 0.35,
-  "cookingtime": 200
-}

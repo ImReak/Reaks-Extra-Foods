@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "reaksextrafoods:dough"
-  },
-  "result": "reaksextrafoods:baked_dough",
-  "experience": 0.35,
-  "cookingtime": 200
-}
